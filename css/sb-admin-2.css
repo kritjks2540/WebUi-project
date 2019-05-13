@@ -6991,7 +6991,7 @@ button.bg-dark:focus {
 }
 
 .bg-white {
-  background-color: #dfee5c!important;
+  background-color: #f7f7f7!important;
 }
 
 .bg-transparent {
@@ -10690,9 +10690,9 @@ a:focus {
 }
 
 .bg-gradient-success {
-  background-color: #1cc88a;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #000000), to(#000000));
-  background-image: linear-gradient(180deg, #0b9261 10%, #84ebc5 100%);
+  background-color: #004492;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #004492), to(#004492));
+  background-image: linear-gradient(180deg, #004492 10%, #004492 100%);
   background-size: cover;
 }
 
@@ -11061,7 +11061,7 @@ a:focus {
 }
 
 .topbar.navbar-light .navbar-nav .nav-item .nav-link {
-  color: #d1d3e2;
+  color: #bdbdbd;
 }
 
 .topbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
