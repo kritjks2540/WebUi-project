@@ -1,0 +1,28 @@
+.container{
+	padding: 20px;
+}
+*{
+	box-sizing: border-box; 
+	font-family: 'Oswald', sans-serif;
+}
+body{
+	background-color: white;
+}
+.card-header{
+	background-color: #3f77c1;
+	color: white;
+}
+.card-footer{
+	background-color: #3f77c1;
+	color: white; 
+}
+.card-body{
+	background-color: #759cd1;
+	color: white; 
+}
+.btn{
+	background-color: #3f77c1 ;
+}
+body{
+	background-color: white;
+}
